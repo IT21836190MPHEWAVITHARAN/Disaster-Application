@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Disaster Managemat</string>
+    <string name="Addbtn">Report Desaster</string>
+    <string name="Disasterbtn">Desaster</string>
+    <string name="Contactbtn">Important Contact</string>
+    <string name="backbtn">back</string>
+    <string name="disasterView">Desasters</string>
+    <string name="ImportantView">Important Contact</string>
+    <string name="callNum">Speed-Dial</string>
+    <string name="policebtn">Police</string>
+    <string name="firebtn">Fire Services</string>
+    <string name="docbtn">Doctor Services</string>
+    <string name="ambulancebtn">AmbulaneServices</string>
+    <string name="firstaidbtn">First Aid</string>
+    <string name="Medicalbtn">Medicl Tips</string>
+    <string name="whetherbtn">Whether</string>
+    <string name="webView">Web-Services</string>
+    <string name="alartTitle">Report Disaster</string>
+
+
+
+
+
+</resources>
